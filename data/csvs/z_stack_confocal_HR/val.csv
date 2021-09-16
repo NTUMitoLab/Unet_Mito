@@ -1,0 +1,6 @@
+path_czi,channel_signal,channel_target,structureProteinName,colony_position
+data/z_stack_confocal_HR/42.czi,2,0,mitochondria_Confocal,
+data/z_stack_confocal_HR/27.czi,2,0,mitochondria_Confocal,
+data/z_stack_confocal_HR/49.czi,2,0,mitochondria_Confocal,
+data/z_stack_confocal_HR/25.czi,2,0,mitochondria_Confocal,
+data/z_stack_confocal_HR/60.czi,2,0,mitochondria_Confocal,
