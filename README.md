@@ -22,7 +22,7 @@ conda activate fnet
 The installation will done if the script executes without errors.
 
 ## Data
-Data is currently unavailable.
+Data is currently available [here](https://drive.google.com/drive/folders/1-YL5Byg2Wh6uiI5w_bSb0eDY7fh1zSrc?usp=sharing). Download to the `./data/` directory (for example, you should see data inside `./data/z_stack_confocal_HR`).
 
 ## Train a model with provided data
 Start training a model with:
