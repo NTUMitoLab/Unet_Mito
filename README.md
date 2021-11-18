@@ -55,3 +55,22 @@ Each number represents a single dataset with source image (bright-field), predic
 $ ls results/3d/dna/test/00
 prediction_dna.tiff  signal.tiff  target.tiff
 ```
+
+## Citations
+
+```bibtex
+@inproceedings{10.1117/12.2591089,
+author = {Chan-Min Hsu and Yi-Ju Lee and An-Chi Wei},
+title = {{Convolutional neural networks predict mitochondrial structures from label-free microscopy images}},
+volume = {11792},
+booktitle = {International Forum on Medical Imaging in Asia 2021},
+editor = {Ruey-Feng Chang},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {85 -- 93},
+keywords = {convolutional neural networks, label-free imaging, confocal microscopy, mitochondria},
+year = {2021},
+doi = {10.1117/12.2591089},
+URL = {https://doi.org/10.1117/12.2591089}
+}
+```
